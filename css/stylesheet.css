@@ -1,0 +1,49 @@
+.header{
+    background-color: #CDE8E5;
+}
+
+
+#title-header{
+    color: #4D869C;
+}
+#a-projects{
+    background-color: rgb(238, 247, 255);
+    color: rgb(77, 134, 156);
+}
+#a-resume{
+    color: rgb(77, 134, 156);
+}
+#profile-photo{
+    border-radius: 25%;
+}
+
+#hello{
+    color: #4D869C;
+}
+
+#p-about{
+    color: #7AB2B2;
+}
+
+#h2-about{
+    color: #4D869C;
+}
+
+.about{
+    background-color: #EEF7FF;
+}
+
+#b-resume{
+    background-color: #CDE8E5;
+    color: rgb(77, 134, 156);
+    border-color: #CDE8E5;    
+}
+
+#b-projects{
+    color: rgb(77, 134, 156);
+    border-color: #CDE8E5;
+}
+
+.footer{
+    background-color: #4D869C;
+}
